@@ -1,0 +1,6 @@
+Contains:
+1) PDF file
+2) Files contains the .py scripts for part-1, part-2 and part-4
+3) outputs(screenshots) are present both in the PDF file as well as the attachment
+3) the inputs should be created under a different folder input , with the same hierarchy/level of where the program is placed for multiprocess_test.py
+4) For the remaining .py , the inputs should be in the same folder structure
